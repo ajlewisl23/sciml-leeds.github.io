@@ -370,3 +370,18 @@
     - University teaching and assessment
     - understanding quran and hadith
     - detecting bias and fake news
+
+			
+- name: Eilish		
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/10039/eilish-o-grady
+    github: eeerog
+    twitter: 
+  techniques:
+    - U-net
+    - semantic segmentation
+    - 
+  applications:
+    - Phase unwrapping
+    - volcanoes
+    - tectonics
