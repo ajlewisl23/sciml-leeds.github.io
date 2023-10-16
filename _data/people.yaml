@@ -379,3 +379,12 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+
+- name: Alex Lewis
+  social:
+    website:
+    github: ajlewis23
+  techniques:
+    - Neural networks
+  applications:
+    - Tracking and Classification of mescoscale convective weather systems
